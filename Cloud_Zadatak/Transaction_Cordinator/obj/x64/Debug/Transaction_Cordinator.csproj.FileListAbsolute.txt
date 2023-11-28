@@ -1,0 +1,8 @@
+C:\Users\igorn\Desktop\Cloud_Zadatak\Transaction_Cordinator\bin\x64\Debug\Transaction_Cordinator.exe
+C:\Users\igorn\Desktop\Cloud_Zadatak\Transaction_Cordinator\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Transaction_Cordinator\bin\x64\Debug\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Transaction_Cordinator\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Transaction_Cordinator\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Transaction_Cordinator\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Transaction_Cordinator\bin\x64\Debug\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Transaction_Cordinator\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll

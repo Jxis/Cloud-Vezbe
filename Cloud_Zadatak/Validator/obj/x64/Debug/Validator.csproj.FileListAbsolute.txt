@@ -1,0 +1,8 @@
+C:\Users\igorn\Desktop\Cloud_Zadatak\Validator\bin\x64\Debug\Validator.exe
+C:\Users\igorn\Desktop\Cloud_Zadatak\Validator\bin\x64\Debug\Validator.pdb
+C:\Users\igorn\Desktop\Cloud_Zadatak\Validator\bin\x64\Debug\Common.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Validator\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Validator\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Validator\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Validator\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\igorn\Desktop\Cloud_Zadatak\Validator\bin\x64\Debug\Microsoft.ServiceFabric.Services.Wcf.dll
